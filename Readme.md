@@ -2,7 +2,7 @@
 
 ### Using Node.js
 
- 1. Authenticatio
+ 1. Authentication
  2. Blog
  3. Myshop
  4. ToDo
