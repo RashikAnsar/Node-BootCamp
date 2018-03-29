@@ -1,0 +1,9 @@
+<h1>This is results.ejs</h1>
+
+<ul>
+      <% data["Search"].forEach(function(e){ %>
+            <li><strong><%= e["Title"] %></strong> - <%= e["Year"] %></li>
+      <% }) %>
+</ul>
+
+<a href="/">Search again</a>
